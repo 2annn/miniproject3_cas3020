@@ -1,0 +1,6 @@
+{
+  "name": "Oral History Visual Archive",
+  "description": "An interactive digital archive for exploring 2D and 3D visual frames alongside personal oral history narratives and reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
